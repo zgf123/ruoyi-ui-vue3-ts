@@ -1,4 +1,4 @@
-# yht-f-management
+# 适配 ruoyi-vue 3.8.9 版本
 
 This template should help get you started developing with Vue 3 in Vite.
 
